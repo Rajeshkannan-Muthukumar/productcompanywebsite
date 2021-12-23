@@ -475,13 +475,13 @@ Contact Us Page
 ![output 1](./images/SSS2.png)
 
 ### Product Page:
-![output 2](./images/SSS2.png)
+![output 2](./images/SSS1.png)
 
 ### People Page:
-![output 3](./images/SSS2.png)
+![output 3](./images/SSS3.png)
 
 ### Contact Us Page:
-![output 4](./images/SSS2.png)
+![output 4](./images/SSS4.png)
 
 ## Result:
 
