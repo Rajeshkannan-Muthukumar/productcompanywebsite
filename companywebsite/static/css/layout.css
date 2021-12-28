@@ -21,8 +21,9 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/img1.jpg");
+  background-image: url("/static/img/auto1.png");
   background-size: 100% 100%;
+  background-color: #D3D3D3;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
   color: #16d1ae;
@@ -75,7 +76,7 @@ body {
 }
 .homecontent h1 {
   text-align: left;
-  font-size: larger;
+  font-size: xx-large;
 }
 .homecontent h2 {
   text-align: left;
