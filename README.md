@@ -60,8 +60,9 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/img1.jpg");
+  background-image: url("/static/img/auto1.png");
   background-size: 100% 100%;
+  background-color: #D3D3D3;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
   color: #16d1ae;
@@ -114,7 +115,7 @@ body {
 }
 .homecontent h1 {
   text-align: left;
-  font-size: larger;
+  font-size: xx-large;
 }
 .homecontent h2 {
   text-align: left;
@@ -184,13 +185,14 @@ body {
   color: white;
 }
 
+
 ```
 Home Page
 ```
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>The Gun Shop</title>
+    <title>Autodesk</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -207,26 +209,26 @@ Home Page
       <div class="content">
         <div class="homecontent">
           <h1>About Us:</h1>
-          <img src="./img/img2.png" alt="Building" />
+          <img src="./img/building2.png" alt="Building" />
           <div class="contenttext">
-            The Gun shop has made shopping for firearms more convenient by offering a
-            selection of guns available for purchase online. Select the firearm you 
-            want and we will ship it to your nearest our retail store for pickup. 
+            Autodesk, Inc. is an American multinational software corporation that makes software products and services for 
+            the architecture, engineering, construction, manufacturing, media, education, and entertainment industries. 
+            Autodesk is headquartered in San Rafael, California, and features a gallery of its customers' work[3] in its
+             San Francisco building. 
             <br />
+            <br/>
             
-            No matter what you're shooting, be it handguns, centerfire rifles, rimfire rifles or shotguns,
-            We have a gun to suit your needs. We offer legendary firearm brands such as SIG Sauer,
-            Browning, CZ-USA, Beretta, Smith & Wesson, Benelli, Ruger and many others. Browse the selection of
-            new firearms available for online purchase and have it delivered to your nearest our retail store.
+            The company has offices worldwide. Its U.S. offices are located in the states of California, Oregon, Colorado,
+             Texas, Michigan, New Hampshire and Massachusetts
             <ul>
-              <li>While only applicablefor new firearms, buying a gun online is simple.</li>
-              <li>sell the latest firearm models for hunters and shooters .</li>
+              <li>Just Try our Products.</li>
+              <li>You will be exicted .</li>
             </ul>
           </div>
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 The Gun Shop Corporation, Developed by RAJESHKANNAN.M.
+        Copyright &#169; 2021 The Autodesk Corporation, Developed by RAJESHKANNAN.M.
       </div>
     </div>
   </body>
@@ -238,7 +240,7 @@ Products Page
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>The Gun Shop</title>
+    <title>Autodesk</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
@@ -258,91 +260,91 @@ Products Page
           <div class="productitems">
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/Taurus G2C Pistol.jfif" alt="product image">
+                  <img src="/static/img/A360.png" alt="product image">
                   </div>
-                  <div class="itemname">Taurus G2C Pistol</div>
+                  <div class="itemname">A360</div>
                   <div class="itemprice">Price: $236.04 </div>
               </div>
               <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/Ruger-57 Pistol.jfif"  alt="product image">
+                  <img src="/static/img/Advancesteel.png"  alt="product image">
                   </div>
-                  <div class="itemname">Ruger-57 Pistol</div>
+                  <div class="itemname">Advance Steel </div>
                   <div class="itemprice">Price: $599.97</div>
               </div>
               <div class="productitem"> 
                 <div class="itemimage">
-                <img src="/static/img/Ruger PC Carbine Semi-Auto Rifle.jfif" alt="product image">
+                <img src="/static/img/Alis.png" alt="product image">
                 </div>
-                <div class="itemname">Ruger PC Carbine Semi-Auto Rifle</div>
+                <div class="itemname">Alis</div>
                 <div class="itemprice">Price: $658.774 </div>
             </div>
             <div class="productitem"> 
               <div class="itemimage">
-              <img src="/static/img/Hornady FTX Bullets.png" alt="product image">
+              <img src="/static/img/Autocademobileapp.png" alt="product image">
               </div>
-              <div class="itemname">Hornady FTX Bullets</div>
+              <div class="itemname">Autocade Mobile App</div>
               <div class="itemprice">Price: $37.04-$44.90</div>
           </div>
           <div class="productitem"> 
             <div class="itemimage">
-            <img src="/static/img/Christensen Arms Ridgeline Bolt-Action Rifle.jfif" alt="product image">
+            <img src="/static/img/Bim360.png" alt="product image">
             </div>
-            <div class="itemname">Christensen Arms Ridgeline Bolt-Action Rifle</div>
+            <div class="itemname">Bim360</div>
             <div class="itemprice">Price: $2180.09 </div>
         </div>
         <div class="productitem"> 
           <div class="itemimage">
-          <img src="/static/img/CZ 612 Home Defense Pump-Action Shotgun.jfif" alt="product image">
+          <img src="/static/img/DWG Trueview.png" alt="product image">
           </div>
-          <div class="itemname">CZ 612 Home Defense Pump-Action Shotgun</div>
+          <div class="itemname">DWG Trueview</div>
           <div class="itemprice">Price: $300.87 </div>
           </div>
           <div class="productitem"> 
             <div class="itemimage">
-            <img src="/static/img/TriStar Viper G2 Synthetic Semi-Auto Shotgun.jfif" alt="product image">
+            <img src="/static/img/Eagle.png" alt="product image">
             </div>
-            <div class="itemname">TriStar Viper G2 Synthetic Semi-Auto Shotgun</div>
+            <div class="itemname">Eagle</div>
             <div class="itemprice">Price: $7100.89 </div>
             </div>
             <div class="productitem"> 
               <div class="itemimage">
-              <img src="/static/img/Tipton Carbon Fiber Cleaning Rod.jfif" alt="product image">
+              <img src="/static/img/Fusion360.png" alt="product image">
               </div>
-              <div class="itemname">Tipton Carbon Fiber Cleaning Rod</div>
+              <div class="itemname">Fusion360</div>
               <div class="itemprice">Price: $40.89 </div>
           </div>
           <div class="productitem"> 
             <div class="itemimage">
-            <img src="/static/img/Ramrodz Cotton Gun Cleaning Swabs.jfif" alt="product image">
+            <img src="/static/img/Mudbox.png" alt="product image">
             </div>
-            <div class="itemname">Ramrodz Cotton Gun Cleaning Swabs</div>
+            <div class="itemname">Mudbox</div>
             <div class="itemprice">Price: $10.99 </div>
             </div>    
             <div class="productitem"> 
               <div class="itemimage">
-              <img src="/static/img/RangeMaxx Rifle Bore Mop.jfif" alt="product image">
+              <img src="/static/img/Tradetap.png" alt="product image">
               </div>
-              <div class="itemname">RangeMaxx Rifle Bore Mop</div>
+              <div class="itemname">Tradetap</div>
               <div class="itemprice">Price: $15.25</div>
               </div>    
               <div class="productitem"> 
                 <div class="itemimage">
-                <img src="/static/img/Hoppe's BoreSnake CLP Gun Oil.jfif" alt="product image">
+                <img src="/static/img/Civil3D.jpg" alt="product image">
                 </div>
-                <div class="itemname">Hoppe's BoreSnake CLP Gun Oil</div>
+                <div class="itemname">Civil3D</div>
                 <div class="itemprice">Price: $19.25</div>
                 </div>
                 <div class="productitem"> 
                   <div class="itemimage">
-                  <img src="/static/img/Hammerli TAC R1 M-LOK Semi-Auto Rifle.jfif" alt="product image">
+                  <img src="/static/img/Inventor.jpg" alt="product image">
                   </div>
-                  <div class="itemname">Hammerli TAC R1 M-LOK Semi-Auto Rifle</div>
+                  <div class="itemname">Inventor</div>
                   <div class="itemprice">Price: $1958.52</div>
                   </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 The Gun Shop Corporation, Developed by RAJESHKANNAN.M.
+        Copyright &#169; 2021 The Autodesk Corporation, Developed by RAJESHKANNAN.M.
       </div>
     </div>
   </body>
@@ -354,7 +356,7 @@ People Page
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>The Gun Shop</title>
+    <title>Autodesk</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/ail.png" type="image/x-icon" />
     </head>
@@ -417,7 +419,7 @@ People Page
         </div>        
     </div>
     <div class="footer">
-      Copyright &#169; 2021 The Gun Shop Corporation, Developed by RAJESHKANNAN.M.
+      Copyright &#169; 2021 The Autodesk Corporation, Developed by RAJESHKANNAN.M.
     </div>
   </div>
 </body>
@@ -428,7 +430,7 @@ Contact Us Page
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>The Gun Shop</title>
+    <title>Autodesk</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/ail.png" type="image/x-icon" />
   </head>
@@ -449,7 +451,7 @@ Contact Us Page
           <div class="contenttext">
            Hesperides,
            <br>Lake Wales,
-           <br>Florida.
+           <br>San francisco.
           </div><br>
           <h2>Phone:</h2>
           <div class="contenttext">
@@ -457,12 +459,12 @@ Contact Us Page
           </div><br>
           <h2>E-Mail:</h2>
           <div class="contenttext">
-           customer.service@thegunshop.com
+           customer.service@theautodesk.com
           </div>
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021  The Gun Shop corporation, Developed by RAJESHKANNAN.M.
+        Copyright &#169; 2021  The Autodesk corporation, Developed by RAJESHKANNAN.M.
       </div>
     </div>
   </body>
@@ -472,16 +474,16 @@ Contact Us Page
 
 ### Home Page:
 
-![output 1](./images/SSS2.png)
+![output 1](./images/Screen1.jpg)
 
 ### Product Page:
-![output 2](./images/SSS1.png)
+![output 2](./images/Screen2.jpg)
 
 ### People Page:
-![output 3](./images/SSS3.png)
+![output 3](./images/Screen3.jpg)
 
 ### Contact Us Page:
-![output 4](./images/SSS4.png)
+![output 4](./images/Screen4.jpg)
 
 ## Result:
 
